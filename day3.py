@@ -8,6 +8,3 @@ for i in range(len(word)):
         counter += 1
     
 print(f'La palabra {word} tiene {counter} vocales')
-
-    
-    
